@@ -1,0 +1,11 @@
+{
+    "name": "roll-rpg",
+    "version": "1.0.0",
+    "description": "A simple discord bot that roll rpg dices",
+    "main": "bot.js",
+    "author": "Curtinaz and Geelpa",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
+}
