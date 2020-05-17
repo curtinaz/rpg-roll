@@ -11,3 +11,7 @@ Os comandos basicamente são: !d4, !d6, !d8, !d10, !d12, !d20, !d50 e !d100.
 
 Exemplo de mensagem gerada pelo bot:<br>
 ![rpg roll](https://i.imgur.com/TlTCwGg.png)
+<br><br>
+
+# licença
+Sinta-se à vontade para modificar do seu jeito. Os arquivos de token são: '.env' e 'auth.json'
